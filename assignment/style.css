@@ -1,0 +1,29 @@
+
+header {
+  background-color: lightgray;
+}
+
+.info {
+  border: black solid 1px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  background-color: orange;
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  background-color: lightgreen;
+  color: red;
+  text-align: center;
+}
